@@ -1,0 +1,181 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+.t-h1{
+    font-size: 25px;
+    width: 230px;
+    margin: 20px;
+    color:  #1C2323;
+}
+.nav{
+    width: 100%;
+    padding: 10px;
+}
+.start{
+    
+    color: #58A9A5;
+}
+.start h1{
+    font-size: 20px;
+    margin: 6px;
+}
+.start img{
+    height: 40px;
+}
+.line{
+    margin-top: -3px;
+    height: 4px;
+    width: 44px;
+    background-color: #FEC62D
+}
+.home a{
+    color: #58A9A5;
+}
+ul{
+    width: 40%;
+}
+ul li{
+    text-align: center;
+}
+.btn{
+    height: 40px;
+    width: 150px;
+    background-color: #58A9A5;
+    text-align: center;
+}
+.btn a{
+    color: white;
+}
+/* Section1 */
+.section1{
+    margin-top: 40px;
+}
+.right{
+    background-image: url("assets/bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.l-img img{
+    height: 450px;
+    width: auto;
+}
+.left{
+    padding-left: 70px;
+    width: 400px;
+    margin-top: 60px;
+}
+.left h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 55px;
+    color: #1C2323;
+}
+.left button{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background: #58A9A5;
+    border-radius: 20px 20px 20px 0px;
+}
+/* section2 */
+
+
+/* scetion3 */
+.sct3-text{
+    text-align: center;
+    margin-top: 20px;   
+}
+.sct3-text h1{
+    margin-left: -2px;
+}
+.sct3-text p{
+    width: 360px;
+}
+.sct3-img img{
+    height: 400px;
+    width: 480px;
+}
+/* section4 */
+.body1{
+    margin: 16px;
+    text-align: center;
+}
+.body1 h1{
+    font-weight: bold;
+}
+.body1 p{
+    letter-spacing: 1px;
+}
+.d-line{
+    background-color: #58A9A5;
+    height: 2px;
+    width: 70px;
+    margin: 3px;
+    margin-left: 46%;
+}
+.item1 h1{
+    color: #58A9A5;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+}
+.item1{
+    width: 330px;
+}
+.item1 img{
+    width: 300px;
+    object-fit: contain;
+}
+/* Section4 */
+.section4{
+    margin-top: 40px;
+    padding: 20px;
+}
+.section4 h1{
+    position: relative;
+    left: 40%;
+    margin: 20px;
+}
+.signs img{
+    object-fit: contain;
+    width: 200px;
+    height: 90px;
+}
+
+/* section5 */
+.section5{
+    height: 500px;
+}
+.sct5{
+    background-color: #CCF0E6;
+    color: #58A9A5;
+    width: 65%;
+}
+
+/* footer */
+.footer{
+    margin-top: 50px;
+}
+.foot-left{
+    width: 20%;
+}
+.foot-right{
+    width: 70%;
+}
+.foot-left .d-line{
+    width: 120px;
+    margin: 2px;
+}
+/*  */
